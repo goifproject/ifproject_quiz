@@ -3,10 +3,12 @@
 
 ## WHAT IS THIS?  
 ### We made it to be more friendly with North Koreans  
+
 ## ON WHAT HARDWARE DOES IT RUN?  
 ### we are use python deep learning  
 
-
+## GETTING STARTED
+### open swift or upload with your iphone and getting start
 
 
 
